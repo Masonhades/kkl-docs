@@ -1,3 +1,0 @@
-# Hello world
-### Aboba
-Start typing here...

@@ -4,8 +4,28 @@
 
 <instance-profile id="hi"
                  name="Help Instance"
-                 start-page="Default-topic.md">
+                  start-page="About-The-Project.md">
 
-    <toc-element topic="Hello-world.md"/>
-    <toc-element topic="Default-topic.md"/>
+    <toc-element topic="About-The-Project.md">
+        <toc-element topic="Project-Description.md"/>
+        <toc-element topic="Правила.md">
+        </toc-element>
+    </toc-element>
+    <toc-element topic="Основы-игры.md">
+        <toc-element topic="Первый-вход.md">
+        </toc-element>
+        <toc-element topic="Прогрессия.md"/>
+    </toc-element>
+    <toc-element topic="Механики-сервера.md">
+        <toc-element topic="Точки-интереса.md">
+            <toc-element topic="Дом-Картографа.md"/>
+            <toc-element topic="Шахта.md"/>
+            <toc-element topic="Радиовышка.md"/>
+            <toc-element topic="Деревня-Пиглинов.md"/>
+        </toc-element>
+        <toc-element topic="Туман.md"/>
+        <toc-element topic="Ориджины.md">
+            <toc-element topic="Эволюция-Ориджинов.md"/>
+        </toc-element>
+    </toc-element>
 </instance-profile>
