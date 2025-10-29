@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="hi"
-                 name="Help Instance"
+                 name="ККЛ Вики"
                   start-page="About-The-Project.md">
 
     <toc-element topic="About-The-Project.md">
@@ -17,15 +17,14 @@
         <toc-element topic="Прогрессия.md"/>
     </toc-element>
     <toc-element topic="Механики-сервера.md">
+        <toc-element topic="Команды.md"/>
+        <toc-element topic="Туман.md"/>
+        <toc-element topic="Ориджины.md"/>
         <toc-element topic="Точки-интереса.md">
             <toc-element topic="Дом-Картографа.md"/>
             <toc-element topic="Шахта.md"/>
             <toc-element topic="Радиовышка.md"/>
             <toc-element topic="Деревня-Пиглинов.md"/>
-        </toc-element>
-        <toc-element topic="Туман.md"/>
-        <toc-element topic="Ориджины.md">
-            <toc-element topic="Эволюция-Ориджинов.md"/>
         </toc-element>
     </toc-element>
 </instance-profile>
