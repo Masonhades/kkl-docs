@@ -22,4 +22,20 @@
         <description>Created after removal of "Эволюция Ориджинов" from Help Instance</description>
         <accepts>Эволюция-Ориджинов.html</accepts>
     </rule>
+    <rule id="5f0dc90c">
+        <description>Created after removal of "Шахта" from ККЛ Вики</description>
+        <accepts>Шахта.html</accepts>
+    </rule>
+    <rule id="129be725">
+        <description>Created after removal of "Радиовышка" from ККЛ Вики</description>
+        <accepts>Радиовышка.html</accepts>
+    </rule>
+    <rule id="5eb84a8e">
+        <description>Created after removal of "Деревня Пиглинов" from ККЛ Вики</description>
+        <accepts>Деревня-Пиглинов.html</accepts>
+    </rule>
+    <rule id="5a87a073">
+        <description>Created after removal of "Дом Картографа" from ККЛ Вики</description>
+        <accepts>Дом-Картографа.html</accepts>
+    </rule>
 </rules>

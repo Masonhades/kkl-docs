@@ -21,10 +21,8 @@
         <toc-element topic="Туман.md"/>
         <toc-element topic="Ориджины.md"/>
         <toc-element topic="Точки-интереса.md">
-            <toc-element topic="Дом-Картографа.md"/>
-            <toc-element topic="Шахта.md"/>
-            <toc-element topic="Радиовышка.md"/>
-            <toc-element topic="Деревня-Пиглинов.md"/>
+            <toc-element topic="Как-восстановить-точку-интереса.md"/>
+            <toc-element topic="Квести-дома-картографа.md"/>
         </toc-element>
     </toc-element>
 </instance-profile>
