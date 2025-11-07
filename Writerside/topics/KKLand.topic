@@ -25,6 +25,13 @@
             <a href="Механики-сервера.md">Механики сервера</a>
         </primary>
 
+        <secondary>
+            <title>Дополнительно</title>
+            <a href="Как-восстановить-точку-интереса.md"></a>
+            <a href="Квести-дома-картографа.md"></a>
+
+        </secondary>
+
     </section-starting-page>
 
 </topic>
