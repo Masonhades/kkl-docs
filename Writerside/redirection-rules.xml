@@ -42,4 +42,8 @@
         <description>Created after removal of "KKLAND" from ККЛ Вики</description>
         <accepts>About-The-Project.html</accepts>
     </rule>
+    <rule id="4de1c755">
+        <description>Created after removal of "Основы игры" from ККЛ Вики</description>
+        <accepts>Основы-игры.html</accepts>
+    </rule>
 </rules>

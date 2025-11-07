@@ -10,10 +10,7 @@
         <toc-element topic="Project-Description.md">
         </toc-element>
         <toc-element topic="Правила.md"/>
-    </toc-element>
-    <toc-element topic="Основы-игры.md">
-        <toc-element topic="Первый-вход.md">
-        </toc-element>
+        <toc-element topic="Первый-вход.md"/>
         <toc-element topic="Прогрессия.md"/>
     </toc-element>
     <toc-element topic="Механики-сервера.md">
