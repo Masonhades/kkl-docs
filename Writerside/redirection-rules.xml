@@ -38,4 +38,8 @@
         <description>Created after removal of "Дом Картографа" from ККЛ Вики</description>
         <accepts>Дом-Картографа.html</accepts>
     </rule>
+    <rule id="57b15eee">
+        <description>Created after removal of "KKLAND" from ККЛ Вики</description>
+        <accepts>About-The-Project.html</accepts>
+    </rule>
 </rules>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="KKLand" id="KKLand">
+
+    <section-starting-page>
+        <title>KKLand - Документация проекта</title>
+        <description>
+            Добро пожаловать в официальную документацию KKLand!
+        </description>
+
+        <spotlight>
+            <a href="Project-Description.md" type="start"/>
+            <a href="Правила.md" type="documents"/>
+        </spotlight>
+
+
+        <primary>
+            <title>Основные материалы</title>
+
+            <a href="Первый-вход.md">Как начать играть</a>
+            <a href="Прогрессия.md">Прогрессия и особенности</a>
+            <a href="Механики-сервера.md">Механики сервера</a>
+        </primary>
+
+    </section-starting-page>
+
+</topic>

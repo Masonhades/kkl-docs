@@ -4,12 +4,12 @@
 
 <instance-profile id="hi"
                  name="ККЛ Вики"
-                  start-page="About-The-Project.md">
+                  start-page="KKLand.topic">
 
-    <toc-element topic="About-The-Project.md">
-        <toc-element topic="Project-Description.md"/>
-        <toc-element topic="Правила.md">
+    <toc-element topic="KKLand.topic">
+        <toc-element topic="Project-Description.md">
         </toc-element>
+        <toc-element topic="Правила.md"/>
     </toc-element>
     <toc-element topic="Основы-игры.md">
         <toc-element topic="Первый-вход.md">
